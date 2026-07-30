@@ -265,20 +265,6 @@ Applications Using Watchdog
   interface for observing directories.
   The Apple-notarized app is read to use and does not require additional installations.
 
-
-Licensing
----------
-
-Watchdog is licensed under the terms of the `Apache License, version 2.0`_.
-
-- Copyright 2018-2025 Mickaël Schoentgen & contributors
-- Copyright 2014-2018 Thomas Amland & contributors
-- Copyright 2012-2014 Google, Inc.
-- Copyright 2011-2012 Yesudeep Mangalapilly
-
-Project `source code`_ is available at Github. Please report bugs and file
-enhancement requests at the `issue tracker`_.
-
 Why Watchdog?
 -------------
 
@@ -298,30 +284,29 @@ to do:
 
 .. links:
 .. _Yesudeep Mangalapilly: yesudeep@gmail.com
-.. _source code: https://github.com/gorakhargosh/watchdog
-.. _issue tracker: https://github.com/gorakhargosh/watchdog/issues
-.. _Apache License, version 2.0: https://www.apache.org/licenses/LICENSE-2.0
+.. _source code: https://github.com/Unity-Legal-Affairs/watchdog
+.. _issue tracker: https://github.com/Unity-Legal-Affairs/watchdog/watchdog/issues
 .. _documentation: https://python-watchdog.readthedocs.io/
 .. _stackoverflow: https://stackoverflow.com/questions/tagged/python-watchdog
-.. _repository: https://github.com/gorakhargosh/watchdog
-.. _issue tracker: https://github.com/gorakhargosh/watchdog/issues
-.. _changelog: https://github.com/gorakhargosh/watchdog/blob/master/changelog.rst
+.. _repository: https://github.com/Unity-Legal-Affairs/watchdog/watchdog/watchdog
+.. _issue tracker: https://github.com/Unity-Legal-Affairs/watchdog/watchdog/watchdog/issues
+.. _changelog: https://github.com/Unity-Legal-Affairs/watchdogblob/main/changelog.rst
 
 .. _PyYAML: https://www.pyyaml.org/
 .. _XCode: https://developer.apple.com/technologies/tools/xcode.html
 
-.. _Watchdog.app: https://github.com/abra-code/WatchdogApp
+.. _Watchdog.app: https://github.com/Unity-Legal-Affairs/WatchdogApp
 
 .. _pnotify: http://mark.heily.com/pnotify
 .. _unison fsmonitor: https://webdav.seas.upenn.edu/viewvc/unison/trunk/src/fsmonitor.py?view=markup&pathrev=471
-.. _fsmonitor: https://github.com/shaurz/fsmonitor
-.. _guard: https://github.com/guard/guard
-.. _pyinotify: https://github.com/seb-m/pyinotify
-.. _inotify-tools: https://github.com/rvoicilas/inotify-tools
+.. _fsmonitor: https://github.com/Unity-Legal-Affairs/fsmonitor
+.. _guard: https://github.com/Unity-Legal-Affairs/guard
+.. _pyinotify: https://github.com/Unity-Legal-Affairs/pyinotify
+.. _inotify-tools: https://github.com/Unity-Legal-Affairs/inotify-tools
 .. _jnotify: http://jnotify.sourceforge.net/
-.. _treewatcher: https://github.com/jbd/treewatcher
-.. _file.monitor: https://github.com/pke/file.monitor
-.. _pyfilesystem: https://github.com/PyFilesystem/pyfilesystem
+.. _treewatcher: https://github.com/Unity-Legal-Affairs/treewatcher
+.. _file.monitor: https://github.com/Unity-Legal-Affairs/file.monitor
+.. _pyfilesystem: https://github.com/Unity-Legal-Affairs/pyfilesystem
 
 .. |PyPI Version| image:: https://img.shields.io/pypi/v/watchdog.svg
    :target: https://pypi.python.org/pypi/watchdog/
@@ -329,9 +314,7 @@ to do:
    :target: https://pypi.python.org/pypi/watchdog/
 .. |PyPI Python Versions| image:: https://img.shields.io/pypi/pyversions/watchdog.svg
    :target: https://pypi.python.org/pypi/watchdog/
-.. |Github Build Status| image:: https://github.com/gorakhargosh/watchdog/workflows/Tests/badge.svg
-   :target: https://github.com/gorakhargosh/watchdog/actions?query=workflow%3ATests
-.. |GitHub License| image:: https://img.shields.io/github/license/gorakhargosh/watchdog.svg
-   :target: https://github.com/gorakhargosh/watchdog/blob/master/LICENSE
+.. |Github Build Status| image:: https://github.com/Unity-Legal-Affairs/watchdog/workflows/Tests/badge.svg
+   :target: https://github.com/Unity-Legal-Affairs/watchdog/actions?query=workflow%3ATests
 .. |Patreon| image:: https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white
    :target: https://www.patreon.com/mschoentgen
